@@ -105,12 +105,12 @@ To install and run the **Music Therapy Dementia App** locally, follow the steps 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/music-therapy-dementia.git
+    git clone https://github.com/m4him4/DementiaMusicApp
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd music-therapy-dementia
+    cd DementiaMusicApp
     ```
 
 3. Install the dependencies:
