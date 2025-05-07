@@ -156,5 +156,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For more information or support, feel free to contact us at:  
-[Email or GitHub Issues link]
+[Mahimabegum333@gmail.com]
 
